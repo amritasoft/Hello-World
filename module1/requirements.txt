@@ -1,0 +1,8 @@
+
+
+pytest
+selenium
+pytest-xdist
+xvfbwrapper
+multiprocess
+
